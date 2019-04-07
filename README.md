@@ -146,7 +146,7 @@ pyinstaller -F main.py   # 此处应注意大小写
 参数说明
 ## 四、全部代码
 ### 1、代码已上传到GitHub
-  https://github.com/helloboy236/score
+  https://github.com/helloboy236/score.git
 ### 2、pyinstaller 生成的exe文件包
 链接：https://pan.baidu.com/s/1LClBmu54FlwvZcOvgbk2-A 
 提取码：izp3 
